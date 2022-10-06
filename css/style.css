@@ -2,6 +2,11 @@
   font-family: metro;
   src: url(../fonts/Metrophobic-Regular.ttf);
 }
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 :root {
   --maincolor: #722ed1;
   --secondary-color: #160637;
